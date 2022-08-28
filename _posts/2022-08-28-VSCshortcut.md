@@ -12,11 +12,10 @@ title : Visual Studio Code 핵심 단축키 및 단축키 변경
 
 ![image description](https://github.com/hymr/hymr.github.io/blob/master/_images/shortcut.png?raw=true)
 
-<br><br>
+<br>
 
----
 
-<br><br>
+<br>
 
 
 ## Command palette [ ⇧ + ⌘ + P ]

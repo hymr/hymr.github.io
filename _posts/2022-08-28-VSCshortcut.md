@@ -2,7 +2,10 @@
 layout : single
 title : Visual Studio Code 핵심 단축키 및 단축키 변경
 ---
-# VSC Keyboard shortcut [ ⌘ + K + S ]. 단축키 설정  
+
+<br>
+
+## VSC Keyboard shortcut [ ⌘ + K + S ]. 단축키 설정  
 
 - 핵심은 아래 단축키를 외우는게 아니다. 많이 사용해보고 필요하다면 위 설정에서 바꿔쓰거나 확인하는게 빠르다.
 
